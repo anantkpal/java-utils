@@ -2,7 +2,7 @@ Java Commons Utilities
 ====================================
 
 ## Usage
-File Util
+*File Util*
 -------------
 Create Directory
 ```
